@@ -1,6 +1,7 @@
 # EUNOIA
 
 Nama Aplikasi	: EUNOIA
+
 Tipe Aplikasi	: Desktop Application
 
 Anggota :
