@@ -1,0 +1,65 @@
+C:\Users\HP\source\repos\Eunoia\Eunoia\bin\Debug\Eunoia.exe.config
+C:\Users\HP\source\repos\Eunoia\Eunoia\bin\Debug\Eunoia.exe
+C:\Users\HP\source\repos\Eunoia\Eunoia\bin\Debug\Eunoia.pdb
+C:\Users\HP\source\repos\Eunoia\Eunoia\obj\Debug\Eunoia.Login.resources
+C:\Users\HP\source\repos\Eunoia\Eunoia\obj\Debug\Eunoia.Properties.Resources.resources
+C:\Users\HP\source\repos\Eunoia\Eunoia\obj\Debug\Eunoia.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Eunoia\Eunoia\obj\Debug\Eunoia.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Eunoia\Eunoia\obj\Debug\Eunoia.exe
+C:\Users\HP\source\repos\Eunoia\Eunoia\obj\Debug\Eunoia.pdb
+C:\Users\HP\source\repos\Eunoia\Eunoia\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\Eunoia\Eunoia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\Eunoia\Eunoia\bin\Debug\System.Data.SQLite.dll
+C:\Users\HP\source\repos\Eunoia\Eunoia\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HP\source\repos\Eunoia\Eunoia\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HP\source\repos\Eunoia\Eunoia\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\Eunoia\Eunoia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\Eunoia\Eunoia\bin\Debug\System.Data.SQLite.xml
+C:\Users\HP\source\repos\Eunoia\Eunoia\obj\Debug\Eunoia.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Eunoia\Eunoia\obj\Debug\Eunoia.csproj.CopyComplete
+C:\Users\HP\source\repos\Eunoia\Eunoia\obj\Debug\Eunoia.Signup.resources
+C:\Users\HP\source\repos\Eunoia\Eunoia\obj\Debug\Eunoia.MainMenu.resources
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\bin\Debug\Eunoia.exe.config
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\bin\Debug\Eunoia.exe
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\bin\Debug\Eunoia.pdb
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\bin\Debug\EntityFramework.dll
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\bin\Debug\System.Data.SQLite.dll
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\bin\Debug\EntityFramework.xml
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\bin\Debug\System.Data.SQLite.xml
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.csprojAssemblyReference.cache
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.Diary.resources
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.Login.resources
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.MainMenu.resources
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.Properties.Resources.resources
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.Signup.resources
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.csproj.GenerateResource.cache
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.csproj.CoreCompileInputs.cache
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.csproj.CopyComplete
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.exe
+C:\Users\ANGGI MAULANA\Downloads\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.pdb
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\bin\Debug\Eunoia.exe.config
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\bin\Debug\Eunoia.exe
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\bin\Debug\Eunoia.pdb
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\bin\Debug\EntityFramework.dll
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\bin\Debug\System.Data.SQLite.dll
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\bin\Debug\EntityFramework.xml
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\bin\Debug\System.Data.SQLite.xml
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.Diary.resources
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.Login.resources
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.MainMenu.resources
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.Properties.Resources.resources
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.Signup.resources
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.csproj.CopyComplete
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.exe
+C:\Users\HP\Downloads\Eunoia Fix\Eunoia\Eunoia\Eunoia\obj\Debug\Eunoia.pdb
